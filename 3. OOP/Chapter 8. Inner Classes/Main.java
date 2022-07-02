@@ -1,5 +1,5 @@
 class OuterClass {
-    int x = 10;
+    int x = 20;
   
     class InnerClass {
       int y = 5;
@@ -14,7 +14,7 @@ class OuterClass {
     }
   }
   
-  // Outputs 15 (5 + 10)
+  // Outputs 25 (5 + 20)
    
   
   
