@@ -1,0 +1,7 @@
+// Access modifiers - controls the access
+    // classes - public default
+    // attributes,methods,constructors - public private protected  
+
+// Non Access Modifiers - do not control the access
+    // classes - final and abstract
+    // attributes,methods - final, static, abstract, transient, synchronized, volatile
